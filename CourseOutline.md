@@ -2,7 +2,7 @@
 
 Working in industry requires data scientists to effectively analyse data and communicate their findings with colleagues and stakeholders to enable actionable outputs. 
 In this course you will learn about industry standard metrics for monitoring and assessing enterprise performance. 
-You will learn how to deliver end-to-end analytics projects, working with pre-defined and custom performance metrics, to produce insights for commercial decision making. 
+You will learn how to deliver end-to-end analytics projects, working with pre-defined and custom performance metrics, to produce insights for commercial decision making. <br><br>
 
 **Chapter 1 Basics of Commercial Data** <br><br>  
 
