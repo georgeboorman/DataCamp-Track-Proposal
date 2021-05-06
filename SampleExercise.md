@@ -14,7 +14,8 @@ To calculate CLV, the following steps are required:
 
 In this this exercise you will complete the first three steps to obtain Average Customer Value, then in the next exercise you will find the Average Customer Lifespan and use to determine Customer Lifetime Value.
 
-`pandas` has been imported as `pd`, and a DataFrame named `customer_data` is already loaded for you containing data on customers and sales for an e-commerce company.  
+`pandas` has been imported as `pd`, and a DataFrame named `customer_data` is already loaded for you containing data on customers and sales for an e-commerce company. 
+<br><br> 
 
 ### **Instructions** <br>
 •	Create a column in `customer_data` called `average_order_size`, which contains the sum of dividing `total_revenue` by `total_orders`. 
@@ -24,6 +25,7 @@ In this this exercise you will complete the first three steps to obtain Average 
 •	Add `average_customer_value` as a column in `customer_data`, dividing `average_order_size` by `average_order_frequency`.
 
 •	Print descriptive statistics for the newly created columns.
+<br><br>
 
 ### **Code to be Completed**
 
@@ -38,6 +40,7 @@ customer_data[‘\_\_\_\_’] = customer_data[‘average_order_size’] / custom
 
 #### Print the descriptive statistics for the three newly created columns
 customer_data[[‘average_order_size’, ‘\_\_\_\_’, ‘\_\_\_\_’]].’\_\_\_\_’()
+<br><br>
 
 ### **Answers**
 
