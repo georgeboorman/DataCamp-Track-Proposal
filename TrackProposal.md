@@ -3,27 +3,27 @@
 The scale of data collection in industry is growing at a rapid pace, with data being used to interpret performance, track trends, develop content and inform commercial decisions. 
 This track provides you with the opportunity to understand how to design and implement data gathering and reporting workflows to drive data-driven collaboration and decision making. 
 You will gain hands-on experience with Python packages and concepts including NumPy, pandas, Regular Expressions, Matplotlib and Plotly. 
-Using these you will learn to critically appraise and prioritise business questions, translate into data questions, identify data sources, apply a variety of cleaning techniques to enable analysis, and create reports to communicate appropriately to relevant stakeholders. 
+Using these you will learn to critically appraise and prioritise business questions, translate into data questions, identify data sources, apply a variety of cleaning techniques to enable analysis, and create reports to communicate appropriately to relevant stakeholders. <br><br>
 
 **1.	Introduction to Data Collection Methods**
 
-Learn how to design appropriate data collection methods to monitor business performance. 
+Learn how to design appropriate data collection methods to monitor business performance. <br><br>
 
 **2.	Data Cleaning and Processing in Python**
 
-Build your skills to clean and combine data from multiple sources for analysis.
+Build your skills to clean and combine data from multiple sources for analysis. <br><br>
 
 **3.	Analyzing Commercial Metrics in Python**
 
-Learn about business metrics and how to analyze them in Python.
+Learn about business metrics and how to analyze them in Python. <br><br>
 
 **4.	Delivering Business Insights in Python**
 
-Learn to interpret findings and present reports to deliver value and actionable insights.
+Learn to interpret findings and present reports to deliver value and actionable insights. <br><br>
 
 **5.	Introduction to Interactive Visualisation with Plotly**
 
-Build plots for stakeholders to interact with directly using Plotly.
+Build plots for stakeholders to interact with directly using Plotly. <br><br>
 
 **6.	Developing a Reporting Dashboard with Plotly**
 
