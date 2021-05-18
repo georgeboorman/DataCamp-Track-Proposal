@@ -41,6 +41,7 @@ Lesson 2.4 Using Proxy Data
 Lesson 3.1 Analyzing Sales Performance
 
 •	Learner will be able to analyze sales pipeline and customer lifetime value using pandas and seaborn
+
 Lesson 3.2  Analyzing Operational Performance
 
 •	Learner will be able to analyze customer service teams and appraise performance 
