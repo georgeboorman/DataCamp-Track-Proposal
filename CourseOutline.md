@@ -52,7 +52,7 @@ Lesson 3.3 Categorical Data Analysis
 
 Lesson 3.4 Working with Qualitative Data
 
-•	Learner will be able to utilise string methods bag of words for interpreting text information from customers <br><br>
+•	Learner will be able to utilise string methods for interpreting text information from customers <br><br>
 
 **Chapter 4 Reporting on Analysis** <br><br>
 
